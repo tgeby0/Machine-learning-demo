@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Machine-learning-demo"
+  site-url: "https://lakebradford.github.io/Machine-learning-demo"
+  description: "machine learning demo"
+  repo-branch: main
+  repo-url: "https://github.com/lakebradford/Machine-learning-demo"
