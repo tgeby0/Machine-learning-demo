@@ -16,8 +16,6 @@ started.
 # make sure Machine_learning_demo package is installed in development mode
 $ pip install -e .
 
-# make changes under nbs/ directory
-# ...
 
 # compile to have changes apply to Machine_learning_demo
 $ nbdev_prepare
