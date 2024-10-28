@@ -19,7 +19,7 @@ $ pip install -e .
 $ pip install -r requirements.txt
 
 # Install quarto
-$nbdev_install_quarto
+$ nbdev_install_quarto
 
 # compile to have changes apply to Machine_learning_demo
 $ nbdev_prepare
