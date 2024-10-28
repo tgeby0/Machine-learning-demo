@@ -16,6 +16,8 @@ started.
 # make sure Machine_learning_demo package is installed in development mode
 $ pip install -e .
 
+$ pip install -r requirements.txt
+
 
 # compile to have changes apply to Machine_learning_demo
 $ nbdev_prepare
