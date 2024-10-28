@@ -1,0 +1,2 @@
+[nbdev]
+Machine_learning_demo = Machine_learning_demo._modidx:d

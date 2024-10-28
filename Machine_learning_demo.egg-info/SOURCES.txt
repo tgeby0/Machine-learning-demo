@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+settings.ini
+setup.py
+Machine_learning_demo/__init__.py
+Machine_learning_demo/_modidx.py
+Machine_learning_demo/core.py
+Machine_learning_demo.egg-info/PKG-INFO
+Machine_learning_demo.egg-info/SOURCES.txt
+Machine_learning_demo.egg-info/dependency_links.txt
+Machine_learning_demo.egg-info/entry_points.txt
+Machine_learning_demo.egg-info/not-zip-safe
+Machine_learning_demo.egg-info/requires.txt
+Machine_learning_demo.egg-info/top_level.txt
